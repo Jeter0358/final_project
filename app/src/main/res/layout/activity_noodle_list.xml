@@ -93,7 +93,7 @@
         android:layout_marginStart="300dp"
         android:layout_marginTop="500dp"
         android:visibility="gone"
-        android:text="加入點餐籃" />
+        android:text="加入購物車" />
 
     <Button
         android:id="@+id/btn_FoodList"
@@ -101,7 +101,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="300dp"
         android:layout_marginTop="550dp"
-        android:text="點餐籃" />
+        android:text="購物" />
 
 
 </RelativeLayout>
