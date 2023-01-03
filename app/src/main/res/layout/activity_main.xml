@@ -96,6 +96,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="300dp"
         android:layout_marginTop="550dp"
+        android:backgroundTint="@color/black"
         android:text="購物車" />
 
 <!--    <RadioGroup-->
@@ -125,6 +126,7 @@
         android:layout_marginStart="150dp"
         android:layout_marginTop="40dp"
         android:text="麵食" />
+
     <Button
         android:id="@+id/btn_DrinkList"
         android:layout_width="wrap_content"

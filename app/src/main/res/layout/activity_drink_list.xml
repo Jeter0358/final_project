@@ -92,6 +92,7 @@
         android:layout_marginStart="300dp"
         android:layout_marginTop="500dp"
         android:visibility="gone"
+        android:backgroundTint="@color/black"
         android:text="加入購物車" />
 
     <Button
