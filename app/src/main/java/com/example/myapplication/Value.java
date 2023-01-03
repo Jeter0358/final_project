@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 import android.app.Application;
 public class Value extends Application{
-    private String FoodName,FoodName1;
+    private String FoodName,FoodName12;
     private int Number,Number1,Number2,Number3,Number4,Number5,Number6,Number7,Number8,Number9,Number10,Number11,
     Number12,Number13,Number14,Number15,Number16,Number17;
 
